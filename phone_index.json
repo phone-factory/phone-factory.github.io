@@ -1,0 +1,4151 @@
+{
+    "Phones": {
+        "Realme": {
+            "8i": {
+                "CPU": "Helio G96",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "GT 8": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "7000"
+            },
+            "GT 8 Pro": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "7000"
+            },
+            "GT 7T": {
+                "CPU": "Dimensity 8400",
+                "RAM": "12",
+                "Battery": "7000"
+            },
+            "Neo7 Turbo": {
+                "CPU": "Dimensity 9400e",
+                "RAM": "12",
+                "Battery": "7000"
+            },
+            "Note 60x": {
+                "CPU": "Unisoc T612",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C75": {
+                "CPU": "Unisoc T612",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "14T": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "C71": {
+                "CPU": "Unisoc T612",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Narzo 80 Pro": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "5800"
+            },
+            "Narzo 70 Turbo": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "GT7 Dream Edition": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "7000"
+            },
+            "Narzo N65": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "GT Neo6": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "P1 Pro": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "14 Pro+": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "5200"
+            },
+            "GT 5 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5400"
+            },
+            "11 Pro+": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "12 Pro+": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "12 Pro": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "GT 6": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "GT 2 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "9 Pro+": {
+                "CPU": "Dimensity 920",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "10 Pro+": {
+                "CPU": "Dimensity 1080",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Narzo 60 Pro": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "GT 7 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6500"
+            },
+            "GT 7": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "7000"
+            },
+            "GT 6T": {
+                "CPU": "Snapdragon 7+ Gen 3",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "GT 3": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "16",
+                "Battery": "4600"
+            },
+            "GT Neo 6": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "GT Neo 5": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "16",
+                "Battery": "5000"
+            },
+            "GT Neo 3": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "GT Master Edition": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4300"
+            },
+            "GT 2": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "13 Pro+": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "12",
+                "Battery": "5200"
+            },
+            "13 Pro": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "13+": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "12x": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "12": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "11": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "11x": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "10 Pro": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "10": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "9 Pro": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "9i": {
+                "CPU": "Snapdragon 680",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "8 Pro": {
+                "CPU": "Helio G95",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "8": {
+                "CPU": "Helio G95",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Narzo 70 Pro": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Narzo 70x": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Narzo 60x": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Narzo 50": {
+                "CPU": "Helio G96",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C67": {
+                "CPU": "Snapdragon 685",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "C65": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C55": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C53": {
+                "CPU": "Unisoc T612",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "C35": {
+                "CPU": "Unisoc T616",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C25": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "Q5 Pro": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "C51": {
+                "CPU": "Unisoc Tiger T612",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "C31": {
+                "CPU": "Unisoc T612",
+                "RAM": "3",
+                "Battery": "5000"
+            }
+        },
+        "Samsung": {
+            "Galaxy S26 Ultra": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "5500"
+            },
+            "Galaxy S26": {
+                "CPU": "Exynos 2600",
+                "RAM": "12",
+                "Battery": "4300"
+            },
+            "Galaxy A17": {
+                "CPU": "Dimensity 6300",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A07": {
+                "CPU": "Helio G99",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy F16": {
+                "CPU": "Dimensity 6300",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Galaxy M16": {
+                "CPU": "Dimensity 6300",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Galaxy Tab S10 Ultra": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "12",
+                "Battery": "11200"
+            },
+            "Galaxy Tab A9": {
+                "CPU": "Helio G99",
+                "RAM": "4",
+                "Battery": "5100"
+            },
+            "Galaxy XCover Pro": {
+                "CPU": "Exynos 850",
+                "RAM": "4",
+                "Battery": "4050"
+            },
+            "Galaxy S23 Ultra 5G": {
+                "CPU": "Snapdragon 8 Gen 2 for Galaxy",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy Z TriFold": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "5600"
+            },
+            "Galaxy A17 5G": {
+                "CPU": "Exynos 1330",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy M06": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy F06": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy M56": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "5700"
+            },
+            "Galaxy F56": {
+                "CPU": "Dimensity 8350",
+                "RAM": "8",
+                "Battery": "5700"
+            },
+            "Galaxy A56 5G": {
+                "CPU": "Exynos 1580",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy A06 5G": {
+                "CPU": "Dimensity 6300",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy Note 10+": {
+                "CPU": "Snapdragon 855",
+                "RAM": "12",
+                "Battery": "4300"
+            },
+            "Galaxy A05": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy J7": {
+                "CPU": "Snapdragon 425",
+                "RAM": "2",
+                "Battery": "3000"
+            },
+            "Galaxy Tab S9": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "8400"
+            },
+            "Galaxy S24 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy S24": {
+                "CPU": "Exynos 2400",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Galaxy S23": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "3900"
+            },
+            "Galaxy S22": {
+                "CPU": "Exynos 2200",
+                "RAM": "8",
+                "Battery": "3700"
+            },
+            "Galaxy A54": {
+                "CPU": "Exynos 1380",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy S23 Ultra": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy S21": {
+                "CPU": "Exynos 2100",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Galaxy S24 FE": {
+                "CPU": "Exynos 2400e",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Galaxy A34": {
+                "CPU": "Dimensity 1080",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A15": {
+                "CPU": "Helio G99",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy Z Flip5": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "3700"
+            },
+            "Galaxy Z Fold5": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "Galaxy S25 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy S25": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "4000"
+            },
+            "Galaxy A55": {
+                "CPU": "Exynos 1480",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy A73": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy S20": {
+                "CPU": "Exynos 990",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Galaxy S23 FE": {
+                "CPU": "Exynos 2200",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Galaxy Z Flip6": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "4000"
+            },
+            "Galaxy Z Fold6": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "Galaxy S25 Edge": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "3900"
+            },
+            "Galaxy S25+": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "4900"
+            },
+            "Galaxy S25 FE": {
+                "CPU": "Exynos 2400",
+                "RAM": "8",
+                "Battery": "4900"
+            },
+            "Galaxy S24+": {
+                "CPU": "Exynos 2400",
+                "RAM": "12",
+                "Battery": "4900"
+            },
+            "Galaxy S23+": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Galaxy S22 Ultra": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy S22+": {
+                "CPU": "Exynos 2200",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Galaxy S21 Ultra": {
+                "CPU": "Exynos 2100",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy S21+": {
+                "CPU": "Exynos 2100",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "Galaxy S21 FE": {
+                "CPU": "Snapdragon 888",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "Galaxy S20 FE": {
+                "CPU": "Exynos 990",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "Galaxy S20 Ultra": {
+                "CPU": "Exynos 990",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Galaxy Note 20 Ultra": {
+                "CPU": "Exynos 990",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Galaxy A56": {
+                "CPU": "Exynos 1580",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy A36": {
+                "CPU": "Snapdragon 6 Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy A26": {
+                "CPU": "Exynos 1380",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A35": {
+                "CPU": "Exynos 1380",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy A25": {
+                "CPU": "Exynos 1280",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A24": {
+                "CPU": "Helio G99",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A16": {
+                "CPU": "Helio G99",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A14": {
+                "CPU": "Helio G80",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A14 5G": {
+                "CPU": "Dimensity 700",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A13": {
+                "CPU": "Exynos 850",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A06": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A05s": {
+                "CPU": "Snapdragon 4 Gen 1",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A53": {
+                "CPU": "Exynos 1280",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A52s": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "Galaxy A33": {
+                "CPU": "Exynos 1280",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Galaxy A23": {
+                "CPU": "Snapdragon 680",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Galaxy A72": {
+                "CPU": "Snapdragon 720G",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy M55": {
+                "CPU": "Snapdragon 7 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Galaxy M54": {
+                "CPU": "Exynos 1380",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "Galaxy M35": {
+                "CPU": "Exynos 1380",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Galaxy M34": {
+                "CPU": "Exynos 1280",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Galaxy M14": {
+                "CPU": "Exynos 1330",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "Galaxy Z Flip4": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "3700"
+            },
+            "Galaxy Z Flip3": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "3300"
+            },
+            "Galaxy Z Flip7": {
+                "CPU": "Exynos 2500",
+                "RAM": "12",
+                "Battery": "4300"
+            },
+            "Galaxy Z Fold4": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "Galaxy Z Fold3": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "Galaxy Z Fold7": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "Galaxy Xcover7": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "4050"
+            }
+        },
+        "Apple": {
+
+            "iPhone 18 Pro": {
+                "CPU": "Apple A20 Pro",
+                "RAM": "12",
+                "Battery": "4288"
+            },
+            "iPhone 18 Pro Max": {
+                "CPU": "Apple A20 Pro",
+                "RAM": "12",
+                "Battery": "5567"
+            },
+            "iPhone 17e": {
+                "CPU": "Apple A19",
+                "RAM": "8",
+                "Battery": "3600"
+            },
+            "iPad Pro 13": {
+                "CPU": "Apple M4",
+                "RAM": "16",
+                "Battery": "10000"
+            },
+            "iPad Air 11": {
+                "CPU": "Apple M3",
+                "RAM": "8",
+                "Battery": "7606"
+            },
+            "iPad mini": {
+                "CPU": "Apple A17 Pro",
+                "RAM": "8",
+                "Battery": "5124"
+            },
+            "iPhone 16e Plus": {
+                "CPU": "Apple A18",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "iPhone 8": {
+                "CPU": "Apple A11 Bionic",
+                "RAM": "2",
+                "Battery": "1821"
+            },
+            "iPhone 7": {
+                "CPU": "Apple A10 Fusion",
+                "RAM": "2",
+                "Battery": "1960"
+            },
+            "iPhone 6s": {
+                "CPU": "Apple A9",
+                "RAM": "2",
+                "Battery": "1715"
+            },
+            "iPhone SE (1-го поколения)": {
+                "CPU": "Apple A9",
+                "RAM": "2",
+                "Battery": "1624"
+            },
+            "iPhone 16 Pro": {
+                "CPU": "Apple A18 Pro",
+                "RAM": "8",
+                "Battery": "3582"
+            },
+            "iPhone 16": {
+                "CPU": "Apple A18",
+                "RAM": "8",
+                "Battery": "3561"
+            },
+            "iPhone 15 Pro": {
+                "CPU": "Apple A17 Pro",
+                "RAM": "8",
+                "Battery": "3274"
+            },
+            "iPhone 15": {
+                "CPU": "Apple A16 Bionic",
+                "RAM": "6",
+                "Battery": "3349"
+            },
+            "iPhone 14": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "6",
+                "Battery": "3279"
+            },
+            "iPhone 13": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "4",
+                "Battery": "3227"
+            },
+            "iPhone 12": {
+                "CPU": "Apple A14 Bionic",
+                "RAM": "4",
+                "Battery": "2815"
+            },
+            "iPhone 14 Pro": {
+                "CPU": "Apple A16 Bionic",
+                "RAM": "6",
+                "Battery": "3200"
+            },
+            "iPhone 11": {
+                "CPU": "Apple A13 Bionic",
+                "RAM": "4",
+                "Battery": "3110"
+            },
+            "iPhone SE (3-го поколения)": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "4",
+                "Battery": "2018"
+            },
+            "iPhone 16 Pro Max": {
+                "CPU": "Apple A18 Pro",
+                "RAM": "8",
+                "Battery": "4685"
+            },
+            "iPhone 16 Plus": {
+                "CPU": "Apple A18",
+                "RAM": "8",
+                "Battery": "4674"
+            },
+            "iPhone 15 Pro Max": {
+                "CPU": "Apple A17 Pro",
+                "RAM": "8",
+                "Battery": "4441"
+            },
+            "iPhone 15 Plus": {
+                "CPU": "Apple A16 Bionic",
+                "RAM": "6",
+                "Battery": "4383"
+            },
+            "iPhone 14 Plus": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "6",
+                "Battery": "4325"
+            },
+            "iPhone 13 mini": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "4",
+                "Battery": "2406"
+            },
+            "iPhone 12 Pro": {
+                "CPU": "Apple A14 Bionic",
+                "RAM": "6",
+                "Battery": "2815"
+            },
+            "iPhone XR": {
+                "CPU": "Apple A12 Bionic",
+                "RAM": "3",
+                "Battery": "2942"
+            },
+            "iPhone 17": {
+                "CPU": "Apple A19",
+                "RAM": "8",
+                "Battery": "3692"
+            },
+            "iPhone 17 Pro": {
+                "CPU": "Apple A19 Pro",
+                "RAM": "12",
+                "Battery": "4252"
+            },
+            "iPhone 17 Pro Max": {
+                "CPU": "Apple A19 Pro",
+                "RAM": "12",
+                "Battery": "5088"
+            },
+            "iPhone Air": {
+                "CPU": "Apple A19 Pro",
+                "RAM": "12",
+                "Battery": "3149"
+            },
+            "iPhone 16e": {
+                "CPU": "Apple A18",
+                "RAM": "8",
+                "Battery": "4005"
+            },
+            "iPhone 14 Pro Max": {
+                "CPU": "Apple A16 Bionic",
+                "RAM": "6",
+                "Battery": "4323"
+            },
+            "iPhone 13 Pro": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "6",
+                "Battery": "3095"
+            },
+            "iPhone 13 Pro Max": {
+                "CPU": "Apple A15 Bionic",
+                "RAM": "6",
+                "Battery": "4352"
+            },
+            "iPhone 12 mini": {
+                "CPU": "Apple A14 Bionic",
+                "RAM": "4",
+                "Battery": "2227"
+            },
+            "iPhone 12 Pro Max": {
+                "CPU": "Apple A14 Bionic",
+                "RAM": "6",
+                "Battery": "3687"
+            },
+            "iPhone 11 Pro": {
+                "CPU": "Apple A13 Bionic",
+                "RAM": "4",
+                "Battery": "3046"
+            },
+            "iPhone 11 Pro Max": {
+                "CPU": "Apple A13 Bionic",
+                "RAM": "4",
+                "Battery": "3969"
+            },
+            "iPhone XS": {
+                "CPU": "Apple A12 Bionic",
+                "RAM": "4",
+                "Battery": "2658"
+            },
+            "iPhone XS Max": {
+                "CPU": "Apple A12 Bionic",
+                "RAM": "4",
+                "Battery": "3174"
+            },
+            "iPhone X": {
+                "CPU": "Apple A11 Bionic",
+                "RAM": "3",
+                "Battery": "2716"
+            },
+            "iPhone 8 Plus": {
+                "CPU": "Apple A11 Bionic",
+                "RAM": "3",
+                "Battery": "2691"
+            },
+            "iPhone SE (2-го поколения)": {
+                "CPU": "Apple A13 Bionic",
+                "RAM": "3",
+                "Battery": "1821"
+            }
+        },
+        "Google": {
+            "Pixel 10 Pro XL": {
+                "CPU": "Google Tensor G5",
+                "RAM": "16",
+                "Battery": "5200"
+            },
+            "Pixel 10a": {
+                "CPU": "Google Tensor G4",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Pixel Tablet": {
+                "CPU": "Google Tensor G2",
+                "RAM": "8",
+                "Battery": "7020"
+            },
+            "Pixel 8 Pro XL": {
+                "CPU": "Google Tensor G3",
+                "RAM": "12",
+                "Battery": "5100"
+            },
+            "Pixel 3": {
+                "CPU": "Snapdragon 845",
+                "RAM": "4",
+                "Battery": "2915"
+            },
+            "Pixel 2 XL": {
+                "CPU": "Snapdragon 835",
+                "RAM": "4",
+                "Battery": "3520"
+            },
+            "Pixel 9 Pro": {
+                "CPU": "Google Tensor G4",
+                "RAM": "16",
+                "Battery": "4700"
+            },
+            "Pixel 8": {
+                "CPU": "Google Tensor G3",
+                "RAM": "8",
+                "Battery": "4575"
+            },
+            "Pixel 7": {
+                "CPU": "Google Tensor G2",
+                "RAM": "8",
+                "Battery": "4355"
+            },
+            "Pixel 6": {
+                "CPU": "Google Tensor",
+                "RAM": "8",
+                "Battery": "4614"
+            },
+            "Pixel 9": {
+                "CPU": "Google Tensor G4",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "Pixel 8a": {
+                "CPU": "Google Tensor G3",
+                "RAM": "8",
+                "Battery": "4492"
+            },
+            "Pixel 7a": {
+                "CPU": "Google Tensor G2",
+                "RAM": "8",
+                "Battery": "4385"
+            },
+            "Pixel 9 Pro XL": {
+                "CPU": "Google Tensor G4",
+                "RAM": "16",
+                "Battery": "5060"
+            },
+            "Pixel 9a": {
+                "CPU": "Google Tensor G4",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Pixel 8 Pro": {
+                "CPU": "Google Tensor G3",
+                "RAM": "12",
+                "Battery": "5050"
+            },
+            "Pixel 7 Pro": {
+                "CPU": "Google Tensor G2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Pixel 6a": {
+                "CPU": "Google Tensor",
+                "RAM": "6",
+                "Battery": "4410"
+            },
+            "Pixel 5": {
+                "CPU": "Snapdragon 765G",
+                "RAM": "8",
+                "Battery": "4080"
+            },
+            "Pixel 10": {
+                "CPU": "Google Tensor G4",
+                "RAM": "12",
+                "Battery": "4970"
+            },
+            "Pixel 10 Pro": {
+                "CPU": "Google Tensor G4",
+                "RAM": "16",
+                "Battery": "4870"
+            },
+            "Pixel 9 Pro Fold": {
+                "CPU": "Google Tensor G4",
+                "RAM": "16",
+                "Battery": "4650"
+            },
+            "Pixel Fold": {
+                "CPU": "Google Tensor G2",
+                "RAM": "12",
+                "Battery": "4821"
+            },
+            "Pixel 6 Pro": {
+                "CPU": "Google Tensor",
+                "RAM": "12",
+                "Battery": "5003"
+            },
+            "Pixel 5a": {
+                "CPU": "Snapdragon 765G",
+                "RAM": "6",
+                "Battery": "4680"
+            },
+            "Pixel 4a": {
+                "CPU": "Snapdragon 730",
+                "RAM": "6",
+                "Battery": "3140"
+            },
+            "Pixel 4 XL": {
+                "CPU": "Snapdragon 855",
+                "RAM": "6",
+                "Battery": "3700"
+            }
+        },
+        "Xiaomi": {
+            "Xiaomi 16": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "6000"
+            },
+            "Xiaomi 16 Pro": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "7200"
+            },
+            "Xiaomi 16 Ultra": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "6300"
+            },
+            "Redmi Pad 2": {
+                "CPU": "Helio G100",
+                "RAM": "8",
+                "Battery": "9000"
+            },
+            "Poco Pad": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "10000"
+            },
+            "Mix Flip": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "16",
+                "Battery": "4780"
+            },
+            "Redmi Note 14": {
+                "CPU": "Snapdragon 685",
+                "RAM": "6",
+                "Battery": "5500"
+            },
+            "Redmi Note 14 Pro": {
+                "CPU": "Dimensity 7300 Ultra",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "Civi 5 Pro": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "16",
+                "Battery": "6000"
+            },
+            "Mix Fold 4": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5000"
+            },
+            "Redmi Turbo 4 Pro": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "16",
+                "Battery": "7000"
+            },
+            "Redmi Note 13 Pro 4G": {
+                "CPU": "Snapdragon 685",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Xiaomi 11i": {
+                "CPU": "Dimensity 920",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Redmi K50": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "Redmi K50 Ultra": {
+                "CPU": "Dimensity 9000+",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Poco C65": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Pad 6": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "8840"
+            },
+            "15T Pro": {
+                "CPU": "Dimensity 9400e",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Xiaomi 14": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "4610"
+            },
+            "Xiaomi 13": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Xiaomi 12": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Xiaomi 14T Pro": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xiaomi 14 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5000"
+            },
+            "Xiaomi 13T Pro": {
+                "CPU": "Dimensity 9200+",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Mi 11": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "Xiaomi 13 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4820"
+            },
+            "Xiaomi 12 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "Xiaomi 12T Pro": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi 13 Lite": {
+                "CPU": "Snapdragon 7 Gen 1",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Mi 10": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4780"
+            },
+            "Xiaomi 15": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5240"
+            },
+            "Xiaomi 15 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "5410"
+            },
+            "Xiaomi 15T": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Xiaomi 15T Pro": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Xiaomi 14T": {
+                "CPU": "Dimensity 8300",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xiaomi 13T": {
+                "CPU": "Dimensity 8200",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi 12T": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi 12 Lite": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4300"
+            },
+            "Xiaomi 11T Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi 11T": {
+                "CPU": "Dimensity 1200",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi 11 Lite 5G NE": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4250"
+            },
+            "Xiaomi Mi 11 Ultra": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xiaomi Mi 10T Pro": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xiaomi Mi 9": {
+                "CPU": "Snapdragon 855",
+                "RAM": "6",
+                "Battery": "3300"
+            },
+            "Xiaomi Mix Fold 3": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4800"
+            },
+            "Xiaomi Civi 4 Pro": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "Xiaomi Mi Note 10": {
+                "CPU": "Snapdragon 730",
+                "RAM": "6",
+                "Battery": "5260"
+            },
+            "Xiaomi 14 Civi": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "4700"
+            }
+        },
+        "Redmi": {
+            "Redmi 14C": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "4",
+                "Battery": "5160"
+            },
+            "Redmi A5": {
+                "CPU": "Unisoc T612",
+                "RAM": "3",
+                "Battery": "5200"
+            },
+            "Note 14 Pro+ 5G": {
+                "CPU": "Dimensity 7300 Ultra",
+                "RAM": "12",
+                "Battery": "6200"
+            },
+            "Turbo 4": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "16",
+                "Battery": "7000"
+            },
+            "K80": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6550"
+            },
+            "K80 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6100"
+            },
+            "A4": {
+                "CPU": "Helio G36",
+                "RAM": "4",
+                "Battery": "5160"
+            },
+            "13x": {
+                "CPU": "Snapdragon 685",
+                "RAM": "8",
+                "Battery": "5030"
+            },
+            "Note 13R": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "4",
+                "Battery": "5030"
+            },
+            "12 5G": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Note 13 5G": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi A3": {
+                "CPU": "Unisoc T612",
+                "RAM": "3",
+                "Battery": "5000"
+            },
+            "Note 13": {
+                "CPU": "Snapdragon 685",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Note 12 Turbo": {
+                "CPU": "Snapdragon 7+ Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Turbo 3": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Note 14 Pro": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "13": {
+                "CPU": "Snapdragon 685",
+                "RAM": "6",
+                "Battery": "5030"
+            },
+            "Redmi Note 12 Pro 5G": {
+                "CPU": "Dimensity 1080",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 13 Pro+ 5G": {
+                "CPU": "Dimensity 7200 Ultra",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Redmi 12": {
+                "CPU": "Helio G88",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Note 11": {
+                "CPU": "Snapdragon 680",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "K70 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Note 12": {
+                "CPU": "Snapdragon 685",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Note 10 Pro": {
+                "CPU": "Snapdragon 732G",
+                "RAM": "6",
+                "Battery": "5020"
+            },
+            "Note 13 Pro 5G": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "K60": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "Redmi 10": {
+                "CPU": "Helio G88",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Redmi Note 14 Pro+ 5G": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "Redmi Note 14 Pro 5G": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "Redmi Note 14 5G": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5110"
+            },
+            "Redmi Note 14": {
+                "CPU": "Helio G99",
+                "RAM": "6",
+                "Battery": "5500"
+            },
+            "Redmi Note 13 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Redmi Note 13 5G": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 13": {
+                "CPU": "Snapdragon 685",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 12S": {
+                "CPU": "Helio G96",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 12 5G": {
+                "CPU": "Snapdragon 4 Gen 1",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Redmi Note 12 Pro+ 5G": {
+                "CPU": "Dimensity 1080",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Redmi Note 11 Pro+ 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "Redmi Note 11 Pro": {
+                "CPU": "Helio G96",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 11S": {
+                "CPU": "Helio G96",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 10S": {
+                "CPU": "Helio G95",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Redmi Note 10 5G": {
+                "CPU": "Dimensity 700",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Redmi Note 9 Pro": {
+                "CPU": "Snapdragon 720G",
+                "RAM": "6",
+                "Battery": "5020"
+            },
+            "Redmi Note 9": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5020"
+            },
+            "Redmi 13C": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Redmi 12C": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Redmi K70": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Redmi K60 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Redmi K50 Pro": {
+                "CPU": "Dimensity 9000",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Redmi K40": {
+                "CPU": "Snapdragon 870",
+                "RAM": "6",
+                "Battery": "4520"
+            },
+            "Redmi K80": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "6550"
+            }
+        },
+        "POCO": {
+            "POCO M7": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "POCO C75": {
+                "CPU": "Unisoc T7250",
+                "RAM": "6",
+                "Battery": "5160"
+            },
+            "M6": {
+                "CPU": "Helio G91",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "C61": {
+                "CPU": "Helio G36",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "X6 Neo": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "X7 Neo": {
+                "CPU": "Dimensity 7300 Ultra",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "POCO M4 Pro": {
+                "CPU": "Dimensity 920",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "M7 Pro": {
+                "CPU": "Dimensity 7025",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "POCO F5": {
+                "CPU": "Snapdragon 7+ Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "POCO F6 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "POCO X6 Pro": {
+                "CPU": "Dimensity 8300 Ultra",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "POCO X5 Pro": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "POCO F4": {
+                "CPU": "Snapdragon 870",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "POCO X4 Pro 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "POCO F3": {
+                "CPU": "Snapdragon 870",
+                "RAM": "6",
+                "Battery": "4520"
+            },
+            "POCO F6": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "POCO F7 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "POCO F7 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5300"
+            },
+            "POCO F5 Pro": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "5160"
+            },
+            "POCO F4 GT": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "POCO F2 Pro": {
+                "CPU": "Snapdragon 865",
+                "RAM": "6",
+                "Battery": "4700"
+            },
+            "POCO X7 Pro": {
+                "CPU": "Dimensity 8300",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "POCO X7": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5110"
+            },
+            "POCO X6": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "POCO X5": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "POCO X4 GT": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "5080"
+            },
+            "POCO M6 Pro": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "POCO M6": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "POCO M5": {
+                "CPU": "Helio G99",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "POCO M4 Pro 5G": {
+                "CPU": "Dimensity 810",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "POCO C65": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            }
+        },
+        "OnePlus": {
+            "OnePlus Ace 6T": {
+                "CPU": "Snapdragon 8 Gen 5",
+                "RAM": "12",
+                "Battery": "8300"
+            },
+            "OnePlus 13T": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6260"
+            },
+            "Nord 5": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "12",
+                "Battery": "6800"
+            },
+            "Nord CE5": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "6800"
+            },
+            "Pad 2": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "9510"
+            },
+            "Open 2": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6100"
+            },
+            "Ace 5": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6070"
+            },
+            "OnePlus 7T": {
+                "CPU": "Snapdragon 855+",
+                "RAM": "8",
+                "Battery": "3800"
+            },
+            "OnePlus 6T": {
+                "CPU": "Snapdragon 845",
+                "RAM": "8",
+                "Battery": "3700"
+            },
+            "Ace 3": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Nord 4": {
+                "CPU": "Snapdragon 7+ Gen 3",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "Nord N30": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "13R": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "OnePlus 12": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5400"
+            },
+            "OnePlus 11": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "OnePlus 13": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "OnePlus 10 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Nord CE 3 Lite": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "OnePlus 9 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus 8 Pro": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4510"
+            },
+            "Nord 3": {
+                "CPU": "Dimensity 9000",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Nord CE 4": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "OnePlus 12R": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "OnePlus Open": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "4805"
+            },
+            "OnePlus 13R": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "OnePlus 11R": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "OnePlus 10T": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "OnePlus 10R": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus 9": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus 9R": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus 8T": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus 8": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4300"
+            },
+            "OnePlus 7T Pro": {
+                "CPU": "Snapdragon 855",
+                "RAM": "8",
+                "Battery": "4085"
+            },
+            "OnePlus Nord 4": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "OnePlus Nord 5": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "6800"
+            },
+            "OnePlus Nord 2": {
+                "CPU": "Dimensity 1200",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus Nord CE 2": {
+                "CPU": "Dimensity 900",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "OnePlus Nord N30": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "OnePlus Nord N20": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "OnePlus Ace 3": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5500"
+            }
+        },
+        "vivo": {
+            "X300 Pro": {
+                "CPU": "Dimensity 9500",
+                "RAM": "16",
+                "Battery": "6510"
+            },
+            "X300": {
+                "CPU": "Dimensity 9500",
+                "RAM": "12",
+                "Battery": "6040"
+            },
+            "Y300": {
+                "CPU": "Snapdragon 6 Gen 3",
+                "RAM": "8",
+                "Battery": "6500"
+            },
+            "V50": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "iQOO Neo10": {
+                "CPU": "Dimensity 9400e",
+                "RAM": "16",
+                "Battery": "7500"
+            },
+            "Y03": {
+                "CPU": "Unisoc T612",
+                "RAM": "4",
+                "Battery": "5500"
+            },
+            "Y19s": {
+                "CPU": "Unisoc T612",
+                "RAM": "4",
+                "Battery": "5500"
+            },
+            "X Fold5": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6000"
+            },
+            "Y29": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "6500"
+            },
+            "Y19": {
+                "CPU": "Unisoc T612",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "T3 Pro": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "T3x": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "S20 Pro": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "16",
+                "Battery": "5700"
+            },
+            "S18": {
+                "CPU": "Dimensity 8300",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "iQOO Neo9": {
+                "CPU": "Dimensity 9300",
+                "RAM": "12",
+                "Battery": "5160"
+            },
+            "Y02": {
+                "CPU": "Snapdragon 460",
+                "RAM": "2",
+                "Battery": "5000"
+            },
+            "X100": {
+                "CPU": "Dimensity 9300",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "X90 Pro": {
+                "CPU": "Dimensity 9200",
+                "RAM": "12",
+                "Battery": "4870"
+            },
+            "X100 Pro": {
+                "CPU": "Dimensity 9300",
+                "RAM": "16",
+                "Battery": "5400"
+            },
+            "X200 Pro": {
+                "CPU": "Dimensity 9400",
+                "RAM": "16",
+                "Battery": "6000"
+            },
+            "V30": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "X200": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "5800"
+            },
+            "X200 FE": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "12",
+                "Battery": "6500"
+            },
+            "X100s": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "12",
+                "Battery": "5100"
+            },
+            "X100 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5500"
+            },
+            "X90": {
+                "CPU": "Dimensity 9200",
+                "RAM": "12",
+                "Battery": "4810"
+            },
+            "X80 Pro": {
+                "CPU": "Dimensity 9000",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "X70 Pro+": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "X60 Pro": {
+                "CPU": "Snapdragon 870",
+                "RAM": "12",
+                "Battery": "4200"
+            },
+            "X Fold3 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5700"
+            },
+            "X Flip": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "4400"
+            },
+            "V40 Pro": {
+                "CPU": "Dimensity 9200",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "V29": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "V29 Pro": {
+                "CPU": "Dimensity 8200",
+                "RAM": "12",
+                "Battery": "4600"
+            },
+            "V27": {
+                "CPU": "Dimensity 7200",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "V25": {
+                "CPU": "Dimensity 900",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Y300 Pro": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "6500"
+            },
+            "Y200": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Y100": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Y36": {
+                "CPU": "Snapdragon 680",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Y28": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Y27": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Y22": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Y17s": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "T3": {
+                "CPU": "Dimensity 7200",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "T3 Ultra": {
+                "CPU": "Dimensity 9200+",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "T2": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "4500"
+            }
+        },
+        "OPPO": {
+            "Reno14": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "6200"
+            },
+            "Reno14 Pro": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "6200"
+            },
+            "A5 Pro": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "A3 Pro": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5800"
+            },
+            "K12x": {
+                "CPU": "Dimensity 6300",
+                "RAM": "6",
+                "Battery": "5800"
+            },
+            "Reno13 Pro": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "5800"
+            },
+            "A3x": {
+                "CPU": "Dimensity 6300",
+                "RAM": "6",
+                "Battery": "5800"
+            },
+            "F27 Pro+": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Reno12 F": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Reno11": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Reno12": {
+                "CPU": "Dimensity 7300 Energy",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Reno13": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "5800"
+            },
+            "Find X7 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Find X6 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Find X8 Pro": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "5910"
+            },
+            "Find X5 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Find N3 Flip": {
+                "CPU": "Dimensity 9200",
+                "RAM": "12",
+                "Battery": "4300"
+            },
+            "Find X8": {
+                "CPU": "Dimensity 9400",
+                "RAM": "12",
+                "Battery": "5630"
+            },
+            "Find X8 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6100"
+            },
+            "Find X7": {
+                "CPU": "Dimensity 9300",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Find X6": {
+                "CPU": "Dimensity 9200",
+                "RAM": "12",
+                "Battery": "4800"
+            },
+            "Find X5": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "Find X3 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Find N5": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "5600"
+            },
+            "Find N3": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "4805"
+            },
+            "Reno 12 Pro": {
+                "CPU": "Dimensity 7300",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Reno 12": {
+                "CPU": "Dimensity 7300",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Reno 11 Pro": {
+                "CPU": "Dimensity 8200",
+                "RAM": "12",
+                "Battery": "4600"
+            },
+            "Reno 11": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Reno 10 Pro+": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "Reno 10 Pro": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "12",
+                "Battery": "4600"
+            },
+            "Reno 10": {
+                "CPU": "Dimensity 7050",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Reno 8 Pro": {
+                "CPU": "Dimensity 8100",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Reno 7 Pro": {
+                "CPU": "Dimensity 1200",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Reno 7": {
+                "CPU": "Dimensity 900",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Reno 6 Pro": {
+                "CPU": "Dimensity 1200",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "A98": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "A78": {
+                "CPU": "Helio G96",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "A58": {
+                "CPU": "Helio G99",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "A18": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Honor": {
+            "Magic8 Pro": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "7100"
+            },
+            "Magic8": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "12",
+                "Battery": "6120"
+            },
+            "400 Pro": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "12",
+                "Battery": "5300"
+            },
+            "GT Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "7100"
+            },
+            "X6b": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "4",
+                "Battery": "5200"
+            },
+            "X7c": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "6250"
+            },
+            "Magic Vs3": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5400"
+            },
+            "90 Smart": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "X50 GT": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "12",
+                "Battery": "5300"
+            },
+            "70": {
+                "CPU": "Dimensity 900",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "X9b": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5800"
+            },
+            "Play 8T": {
+                "CPU": "Dimensity 6020",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "50": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "6",
+                "Battery": "4300"
+            },
+            "Magic6 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5600"
+            },
+            "Magic5 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5100"
+            },
+            "Magic V2": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "5000"
+            },
+            "Magic6 Lite": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5300"
+            },
+            "90": {
+                "CPU": "Snapdragon 7 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "200 Pro": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5200"
+            },
+            "Magic7 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5270"
+            },
+            "Magic7": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5650"
+            },
+            "Magic6": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5450"
+            },
+            "Magic6 RSR": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5600"
+            },
+            "Magic V3": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5150"
+            },
+            "Magic V5": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "5820"
+            },
+            "Magic4 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "Magic3 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "Honor 400 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5300"
+            },
+            "Honor 400": {
+                "CPU": "Snapdragon 7+ Gen 3",
+                "RAM": "8",
+                "Battery": "5300"
+            },
+            "Honor 200": {
+                "CPU": "Snapdragon 7+ Gen 3",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Honor 90 Lite": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Honor 70": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "Honor X9b": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5800"
+            },
+            "Honor X8b": {
+                "CPU": "Snapdragon 680",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Honor X7b": {
+                "CPU": "Snapdragon 680",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Honor Play 40": {
+                "CPU": "Dimensity 700",
+                "RAM": "4",
+                "Battery": "5200"
+            },
+            "Honor 50": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4300"
+            }
+        },
+        "Huawei": {
+            "Pura 80 Ultra": {
+                "CPU": "Kirin 9020",
+                "RAM": "16",
+                "Battery": "6300"
+            },
+            "Nova 13": {
+                "CPU": "Kirin 8000",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Enjoy 70": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Nova 12": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "P30 Pro": {
+                "CPU": "Kirin 980",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "Y9": {
+                "CPU": "Kirin 710",
+                "RAM": "4",
+                "Battery": "4000"
+            },
+            "P60 Pro": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4815"
+            },
+            "Mate 60 Pro": {
+                "CPU": "Kirin 9000S",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Pura 70 Pro": {
+                "CPU": "Kirin 9010",
+                "RAM": "12",
+                "Battery": "5050"
+            },
+            "P50 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4360"
+            },
+            "Mate 40 Pro": {
+                "CPU": "Kirin 9000",
+                "RAM": "8",
+                "Battery": "4400"
+            },
+            "P40 Pro": {
+                "CPU": "Kirin 990 5G",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "Mate 70 Pro": {
+                "CPU": "Kirin 9020",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Mate 60": {
+                "CPU": "Kirin 9000S",
+                "RAM": "12",
+                "Battery": "4750"
+            },
+            "Mate 60 Pro+": {
+                "CPU": "Kirin 9000S",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Mate 70": {
+                "CPU": "Kirin 9020",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Mate 70 Pro+": {
+                "CPU": "Kirin 9020",
+                "RAM": "16",
+                "Battery": "5700"
+            },
+            "Mate X5": {
+                "CPU": "Kirin 9000S",
+                "RAM": "12",
+                "Battery": "5060"
+            },
+            "Mate X6": {
+                "CPU": "Kirin 9020",
+                "RAM": "12",
+                "Battery": "5110"
+            },
+            "Mate 50 Pro": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Mate 30 Pro": {
+                "CPU": "Kirin 990 5G",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "P60": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4815"
+            },
+            "P60 Art": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "5100"
+            },
+            "P50": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4100"
+            },
+            "P40": {
+                "CPU": "Kirin 990 5G",
+                "RAM": "8",
+                "Battery": "3800"
+            },
+            "Pura 70": {
+                "CPU": "Kirin 9000S",
+                "RAM": "12",
+                "Battery": "4900"
+            },
+            "Pura 70 Ultra": {
+                "CPU": "Kirin 9010",
+                "RAM": "16",
+                "Battery": "5200"
+            },
+            "Pura 80 Pro": {
+                "CPU": "Kirin 9020",
+                "RAM": "12",
+                "Battery": "5170"
+            },
+            "nova 11": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "nova 9": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4300"
+            }
+        },
+        "ASUS": {
+            "ROG Phone 10 Pro": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "24",
+                "Battery": "7000"
+            },
+            "ROG Phone 8": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "ROG Phone 7": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Zenfone 10": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "4300"
+            },
+            "ROG Phone 9": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5800"
+            },
+            "ROG Phone 6": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Zenfone 11 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "ROG Phone 9 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "5800"
+            },
+            "ROG Phone 8 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5500"
+            },
+            "ROG Phone 7 Ultimate": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "6000"
+            },
+            "ROG Phone 5": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "ROG Phone 3": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "Zenfone 12 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "Zenfone 9": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4300"
+            },
+            "Zenfone 8": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Zenfone 7 Pro": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "5000"
+            }
+        },
+        "Motorola": {
+            "Edge 60 Pro": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Moto G86": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Moto G56": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Moto G Power 2025": {
+                "CPU": "Snapdragon 6s Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto E14": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Moto G54": {
+                "CPU": "Dimensity 7020",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G73": {
+                "CPU": "Dimensity 930",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "ThinkPhone": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G04": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Edge 40 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4600"
+            },
+            "Razr 40 Ultra": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "3800"
+            },
+            "Edge 50 Pro": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Edge 40": {
+                "CPU": "Dimensity 8020",
+                "RAM": "8",
+                "Battery": "4400"
+            },
+            "Moto G84": {
+                "CPU": "Snapdragon 695",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Razr 50 Ultra": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "4000"
+            },
+            "Edge 30 Ultra": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "4610"
+            },
+            "Edge 50 Ultra": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Edge 50 Fusion": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Edge 50 Neo": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "4310"
+            },
+            "Edge 30 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4800"
+            },
+            "Edge 30 Fusion": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4400"
+            },
+            "Edge 30": {
+                "CPU": "Snapdragon 778G",
+                "RAM": "8",
+                "Battery": "4020"
+            },
+            "Edge 20 Pro": {
+                "CPU": "Snapdragon 870",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Edge+ (2023)": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Razr 50": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "Razr 60 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "Razr+ (2023)": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "3800"
+            },
+            "Moto G85": {
+                "CPU": "Snapdragon 6 Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G75": {
+                "CPU": "Snapdragon 6 Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G84 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G Power (2023)": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Moto G Stylus 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Moto G34": {
+                "CPU": "Snapdragon 4 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G24": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G14": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Moto G13": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Moto G200": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G100": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Moto G60": {
+                "CPU": "Snapdragon 732G",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "Moto G51": {
+                "CPU": "Snapdragon 480",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Infinix": {
+            "Zero 50": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "GT 30 Pro": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Smart 9": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5500"
+            },
+            "Hot 50": {
+                "CPU": "Helio G100",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 40 Pro+": {
+                "CPU": "Dimensity 7020",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Zero 40": {
+                "CPU": "Dimensity 8020",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Zero 30 5G": {
+                "CPU": "Dimensity 8020",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "GT 20 Pro": {
+                "CPU": "Dimensity 8200",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 40 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Zero 40 5G": {
+                "CPU": "Dimensity 8200",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Zero 20": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Zero X Pro": {
+                "CPU": "Helio G95",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "GT 20 Pro 5G": {
+                "CPU": "Dimensity 8200",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Note 50 Pro": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Note 40": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 30 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 30": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 12 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Note 12": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Note 11": {
+                "CPU": "Helio G95",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Hot 50 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Hot 40 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Hot 40i": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Hot 30": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Hot 20": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Hot 12": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "Smart 8": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Smart 7": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Tecno": {
+            "Camon 40 Pro": {
+                "CPU": "Dimensity 8350",
+                "RAM": "12",
+                "Battery": "5200"
+            },
+            "Phantom X3 Pro": {
+                "CPU": "Dimensity 9300+",
+                "RAM": "16",
+                "Battery": "5830"
+            },
+            "Spark 30": {
+                "CPU": "Helio G81",
+                "RAM": "8",
+                "Battery": "5200"
+            },
+            "Pova 7": {
+                "CPU": "Dimensity 7060",
+                "RAM": "12",
+                "Battery": "6800"
+            },
+            "Pova 6": {
+                "CPU": "Dimensity 6300",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "Spark Go": {
+                "CPU": "Unisoc T606",
+                "RAM": "3",
+                "Battery": "5000"
+            },
+            "Phantom X2 Pro": {
+                "CPU": "Dimensity 9000",
+                "RAM": "12",
+                "Battery": "5160"
+            },
+            "Spark 20 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Phantom V Flip": {
+                "CPU": "Dimensity 8050",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Phantom X2": {
+                "CPU": "Dimensity 9000",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Phantom V Fold": {
+                "CPU": "Dimensity 9000",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Camon 30 Pro": {
+                "CPU": "Dimensity 8200",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Camon 30": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Camon 20 Pro": {
+                "CPU": "Helio G96",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Camon 19": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Spark 20": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Spark 10 Pro": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Spark 10": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Spark 9": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Pova 6 Pro": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "Pova 4": {
+                "CPU": "Helio G85",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "Pova Neo 3": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "Pop 8": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Nokia": {
+            "G100": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "XR22": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "6",
+                "Battery": "4630"
+            },
+            "G42 5G": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "C22": {
+                "CPU": "Unisoc T606",
+                "RAM": "3",
+                "Battery": "5000"
+            },
+            "C12": {
+                "CPU": "Unisoc SC9863A",
+                "RAM": "2",
+                "Battery": "3000"
+            },
+            "X30": {
+                "CPU": "Snapdragon 695",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "G60": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "G21": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5050"
+            },
+            "G42": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "8.3 5G": {
+                "CPU": "Snapdragon 765G",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "G60 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "G50": {
+                "CPU": "Snapdragon 480",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "G22": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5050"
+            },
+            "G11": {
+                "CPU": "Unisoc T606",
+                "RAM": "3",
+                "Battery": "5050"
+            },
+            "X30 5G": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "4200"
+            },
+            "X20": {
+                "CPU": "Snapdragon 480",
+                "RAM": "6",
+                "Battery": "4470"
+            },
+            "X10": {
+                "CPU": "Snapdragon 480",
+                "RAM": "6",
+                "Battery": "4470"
+            },
+            "8.3": {
+                "CPU": "Snapdragon 765G",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "XR20": {
+                "CPU": "Snapdragon 480",
+                "RAM": "6",
+                "Battery": "4630"
+            },
+            "C32": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5050"
+            },
+            "C21 Plus": {
+                "CPU": "Unisoc T606",
+                "RAM": "3",
+                "Battery": "4000"
+            }
+        },
+        "iQOO": {
+            "15": {
+                "CPU": "Snapdragon 8 Elite Gen 5",
+                "RAM": "16",
+                "Battery": "7000"
+            },
+            "Z10 Turbo Pro": {
+                "CPU": "Dimensity 9400e",
+                "RAM": "16",
+                "Battery": "7500"
+            },
+            "Z9s": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "6",
+                "Battery": "5500"
+            },
+            "U5": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Neo10 Pro": {
+                "CPU": "Dimensity 9400e",
+                "RAM": "16",
+                "Battery": "7420"
+            },
+            "Z9 Turbo": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Neo9 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5160"
+            },
+            "9 SE": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "13 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6150"
+            },
+            "iQOO 12": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "iQOO 13": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6150"
+            },
+            "iQOO Z9": {
+                "CPU": "Dimensity 7200",
+                "RAM": "8",
+                "Battery": "6000"
+            },
+            "iQOO 11": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "iQOO 9 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "iQOO Neo 9 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5160"
+            },
+            "iQOO Neo 7 Pro": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "iQOO Neo 6": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "iQOO Z9x": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "6",
+                "Battery": "6000"
+            },
+            "iQOO Z7 Pro": {
+                "CPU": "Dimensity 7200",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "iQOO 9T": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4700"
+            }
+        },
+        "nubia": {
+            "Flip2": {
+                "CPU": "Snapdragon 7 Gen 3",
+                "RAM": "12",
+                "Battery": "4300"
+            },
+            "Music": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "RedMagic 9S Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "6500"
+            },
+            "Z50": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Z60 Ultra": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "Z70 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6150"
+            },
+            "Z50 Ultra": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Z40 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Red Magic 8 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "RedMagic 10 Air": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "6000"
+            },
+            "RedMagic 7 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "RedMagic 6": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "5050"
+            },
+            "Flip 2": {
+                "CPU": "Dimensity 7300",
+                "RAM": "12",
+                "Battery": "4310"
+            }
+        },
+        "Meizu": {
+            "21 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "16",
+                "Battery": "5050"
+            },
+            "20": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4700"
+            },
+            "21 Note": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "5500"
+            },
+            "20 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "4700"
+            },
+            "18": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "21": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "4800"
+            },
+            "Meizu 20": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Meizu 20 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Meizu 18": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Meizu 18 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Meizu 22": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5000"
+            }
+        },
+        "ZTE": {
+            "Axon 60 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6200"
+            },
+            "Nubia Flip": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "4310"
+            },
+            "Axon 40 Ultra": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Axon 50 Ultra": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Axon 30 Ultra": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4600"
+            },
+            "Axon 30": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "Blade V50": {
+                "CPU": "Unisoc T616",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Blade A73": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Blade V40": {
+                "CPU": "Helio G95",
+                "RAM": "6",
+                "Battery": "4200"
+            }
+        },
+        "Lenovo": {
+            "Legion Y700 Tab": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "8600"
+            },
+            "K15": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Legion Y90": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "12",
+                "Battery": "5600"
+            },
+            "Legion Y70": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "5100"
+            },
+            "Legion Duel 2": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "12",
+                "Battery": "5500"
+            },
+            "K14 Plus": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Legion Phone Duel": {
+                "CPU": "Snapdragon 865",
+                "RAM": "12",
+                "Battery": "5000"
+            }
+        },
+        "Black Shark": {
+            "6": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "16",
+                "Battery": "6500"
+            },
+            "5": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4650"
+            },
+            "4 Pro": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Black Shark 5 Pro": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "4650"
+            },
+            "Black Shark 5": {
+                "CPU": "Snapdragon 870",
+                "RAM": "12",
+                "Battery": "4650"
+            },
+            "Black Shark 4": {
+                "CPU": "Snapdragon 870",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Black Shark 4 Pro": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Black Shark 3": {
+                "CPU": "Snapdragon 865",
+                "RAM": "12",
+                "Battery": "4720"
+            }
+        },
+        "Fairphone": {
+            "Fairphone 6": {
+                "CPU": "Snapdragon 6 Gen 3",
+                "RAM": "8",
+                "Battery": "4415"
+            },
+            "Fairphone 3+": {
+                "CPU": "Snapdragon 632",
+                "RAM": "4",
+                "Battery": "3000"
+            },
+            "Fairphone 5": {
+                "CPU": "Qualcomm QCM6490",
+                "RAM": "8",
+                "Battery": "4200"
+            },
+            "Fairphone 4": {
+                "CPU": "Snapdragon 750G",
+                "RAM": "6",
+                "Battery": "3905"
+            }
+        },
+        "RedMagic": {
+            "10 Air": {
+                "CPU": "Snapdragon 8s Gen 4",
+                "RAM": "12",
+                "Battery": "6100"
+            },
+            "9 Pro": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "6500"
+            },
+            "10 Pro": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "7050"
+            }
+        },
+        "Sharp": {
+            "Aquos Wish4": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Aquos Sense8": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Aquos R8 Pro": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Aquos R9": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Aquos sense8": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Aquos R7": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Aquos Zero6": {
+                "CPU": "Snapdragon 690",
+                "RAM": "8",
+                "Battery": "4010"
+            }
+        },
+        "LG": {
+            "K92 5G": {
+                "CPU": "Snapdragon 690",
+                "RAM": "6",
+                "Battery": "4000"
+            },
+            "Wing": {
+                "CPU": "Snapdragon 765G",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "V60 ThinQ": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "5000"
+            }
+        },
+        "Vertu": {
+            "Quantum Flip": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "4310"
+            },
+            "METAVERTU 2": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "16",
+                "Battery": "5000"
+            }
+        },
+        "CAT": {
+            "S75": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "S62 Pro": {
+                "CPU": "Helio P90",
+                "RAM": "6",
+                "Battery": "4000"
+            }
+        },
+        "Doogee": {
+            "S200": {
+                "CPU": "Helio G99",
+                "RAM": "12",
+                "Battery": "21000"
+            },
+            "V30": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "8",
+                "Battery": "6000"
+            }
+        },
+        "Ulefone": {
+            "Power Armor 19": {
+                "CPU": "Helio G99",
+                "RAM": "12",
+                "Battery": "21000"
+            },
+            "Armor 24": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "12",
+                "Battery": "9600"
+            }
+        },
+        "Blackview": {
+            "Shark 8": {
+                "CPU": "Helio G99",
+                "RAM": "12",
+                "Battery": "6500"
+            },
+            "BV9300": {
+                "CPU": "Dimensity 6020",
+                "RAM": "12",
+                "Battery": "12800"
+            }
+        },
+        "Cubot": {
+            "P90": {
+                "CPU": "Dimensity 6100+",
+                "RAM": "12",
+                "Battery": "6500"
+            },
+            "King Kong 9": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "10600"
+            }
+        },
+        "Oukitel": {
+            "WP30": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "10600"
+            },
+            "WP21": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "9800"
+            }
+        },
+        "Alcatel": {
+            "1L Pro": {
+                "CPU": "Unisoc T606",
+                "RAM": "3",
+                "Battery": "5000"
+            },
+            "1S": {
+                "CPU": "Helio A22",
+                "RAM": "3",
+                "Battery": "4000"
+            }
+        },
+        "BQ": {
+            "Aurora": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "6630L": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Micromax": {
+            "IN 2c": {
+                "CPU": "Helio G88",
+                "RAM": "4",
+                "Battery": "6000"
+            },
+            "IN Note 2": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Lava": {
+            "Yuva 3": {
+                "CPU": "Helio G85",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Blaze 2": {
+                "CPU": "Unisoc T612",
+                "RAM": "3",
+                "Battery": "5000"
+            }
+        },
+        "Sony": {
+            "Xperia PRO-I": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Xperia Ace III": {
+                "CPU": "Snapdragon 480+",
+                "RAM": "4",
+                "Battery": "4500"
+            },
+            "Xperia 1 V": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xperia 5 V": {
+                "CPU": "Snapdragon 8 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xperia 10 V": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Xperia 1 VI": {
+                "CPU": "Snapdragon 8 Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xperia 1 IV": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xperia 10 IV": {
+                "CPU": "Snapdragon 695",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Xperia 1 VII": {
+                "CPU": "Snapdragon 8 Elite",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "Xperia 1 II": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Xperia 1 III": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            },
+            "Xperia 5 IV": {
+                "CPU": "Snapdragon 8 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xperia 5 III": {
+                "CPU": "Snapdragon 888",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Xperia 5 II": {
+                "CPU": "Snapdragon 865",
+                "RAM": "8",
+                "Battery": "4000"
+            },
+            "Xperia 10 VI": {
+                "CPU": "Snapdragon 6 Gen 1",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Xperia 10 III": {
+                "CPU": "Snapdragon 690",
+                "RAM": "6",
+                "Battery": "4500"
+            },
+            "Xperia Pro-I": {
+                "CPU": "Snapdragon 888",
+                "RAM": "12",
+                "Battery": "4500"
+            }
+        },
+        "TCL": {
+            "30 XE": {
+                "CPU": "Dimensity 700",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "Nothing": {
+            "Phone (2)": {
+                "CPU": "Snapdragon 8+ Gen 1",
+                "RAM": "8",
+                "Battery": "4700"
+            },
+            "Phone (1)": {
+                "CPU": "Snapdragon 778G+",
+                "RAM": "8",
+                "Battery": "4500"
+            },
+            "Phone (2a)": {
+                "CPU": "Dimensity 7200 Pro",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "CMF Phone 1": {
+                "CPU": "Dimensity 7300",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Phone (3)": {
+                "CPU": "Snapdragon 8s Gen 3",
+                "RAM": "12",
+                "Battery": "5150"
+            },
+            "Phone (3a)": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Phone (3a) Pro": {
+                "CPU": "Snapdragon 7s Gen 3",
+                "RAM": "12",
+                "Battery": "5000"
+            },
+            "CMF Phone 2 Pro": {
+                "CPU": "Dimensity 7300",
+                "RAM": "8",
+                "Battery": "5000"
+            }
+        },
+        "HMD": {
+            "Skyline": {
+                "CPU": "Snapdragon 7s Gen 2",
+                "RAM": "8",
+                "Battery": "4600"
+            },
+            "Fusion": {
+                "CPU": "Snapdragon 4 Gen 2",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "Pulse Pro": {
+                "CPU": "Unisoc T606",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Crest": {
+                "CPU": "Unisoc T606",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "Vibe": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        },
+        "itel": {
+            "S24": {
+                "CPU": "Helio G99",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "S23": {
+                "CPU": "Unisoc T612",
+                "RAM": "8",
+                "Battery": "5000"
+            },
+            "P55": {
+                "CPU": "Helio G85",
+                "RAM": "6",
+                "Battery": "5000"
+            },
+            "A70": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            },
+            "Vision 3": {
+                "CPU": "Unisoc T606",
+                "RAM": "4",
+                "Battery": "5000"
+            }
+        }
+    }
+}
